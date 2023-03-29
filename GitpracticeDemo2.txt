@@ -1,0 +1,4 @@
+Hi Hello
+This is a Git document to learn PUSH AND PULL to the REMOTE.
+This is done by chaithanya amogha.
+Thanks
